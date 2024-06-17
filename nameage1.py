@@ -42,3 +42,5 @@ try:
 
 except EOFError:
     print("You are exiting the program. Goodbye!")
+
+print("hello")
